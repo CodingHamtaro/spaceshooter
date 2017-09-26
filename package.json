@@ -6,8 +6,6 @@
   "author": "John Eric Torres Orolfo",
   "license": "MIT",
   "dependencies": {
-    "hapi": "^16.6.2",
-    "inert": "^4.2.1",
     "phaser-ce": "^2.8.7"
   }
 }

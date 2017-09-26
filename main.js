@@ -10,6 +10,9 @@ createWindow = () => {
         minHeight: 750,
         width: 960,
         height: 750,
+        resizable: false,
+        useContentSize: true,
+        center: true,
         webPreferences: {
             nodeIntegration: true
         }

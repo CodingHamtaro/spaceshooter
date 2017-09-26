@@ -58,7 +58,7 @@ button:hover {
     top: 0;
     left: 0;
     width: 100vw;
-    height: 750px;
+    height: 700px;
     z-index: 2;
 }
 
@@ -80,7 +80,7 @@ button:hover {
     top: 0;
     left: 0;
     width: 100vw;
-    height: 750px;
+    height: 700px;
     background: rgba(0,0,0,0);
     z-index: 1;
     color: #ffffff;

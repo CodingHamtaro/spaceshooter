@@ -1,0 +1,18 @@
+{
+  "name": "SpaceShooterArcade",
+  "description": "An arcade shooter for Angelica Amaranto Boncodin",
+  "main": "index.js",
+  "authors": [
+    "John Eric Torres Orolfo"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
